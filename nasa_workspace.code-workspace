@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Projet IPSA/Rover/Clignotement"
+		},
+		{
+			"path": "../Projet IPSA/Rover/PWM"
+		}
+	],
+	"settings": {
+		"python.languageServer": "Pylance"
+	}
+}
